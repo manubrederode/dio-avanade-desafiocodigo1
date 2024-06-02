@@ -1,0 +1,14 @@
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\bin\Debug\net8.0\DesafioCodigo-1.exe
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\bin\Debug\net8.0\DesafioCodigo-1.deps.json
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\bin\Debug\net8.0\DesafioCodigo-1.runtimeconfig.json
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\bin\Debug\net8.0\DesafioCodigo-1.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\bin\Debug\net8.0\DesafioCodigo-1.pdb
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.AssemblyInfoInputs.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.AssemblyInfo.cs
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\refint\DesafioCodigo-1.dll
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.pdb
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\DesafioCodigo-1.genruntimeconfig.cache
+C:\Users\Manu\Documents\ESTUDOS\Cursos\Dio\DIO\AVANADE\DesafioCodigo-1\obj\Debug\net8.0\ref\DesafioCodigo-1.dll
